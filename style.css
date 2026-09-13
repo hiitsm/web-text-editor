@@ -1,0 +1,9 @@
+﻿body, textarea {
+    background-color: #222831;
+}
+
+textarea{
+    width: 100%;
+    border-color: none;
+    
+}
