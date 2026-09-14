@@ -1,9 +1,12 @@
-﻿body, textarea {
-    background-color: #222831;
+body, textarea {
+    background-color: #1e2227;
+    color: #c9d1d9;
 }
 
 textarea{
     width: 100%;
-    border-color: none;
-    
+    min-height: 50vh;
+    border: none;
+    outline: none;
+    resize: none;
 }
